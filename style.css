@@ -105,3 +105,37 @@ nav ul {
     color: #fefeff;
     padding: 100px;
 }
+
+/* Some random information */
+.RandInfoView{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.Random-text{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    padding: 30px;
+    padding-top: 50px;
+    margin-bottom: 100px;
+}
+
+.box{
+    max-width: 150px;
+}
+
+.card{
+    border: 3px solid  #3882F6;
+    border-radius: 10px;
+    height: 150px;
+    max-width: 150px;
+    
+}
+
+.boxes{
+    display: flex;
+    gap: 30px;
+}
